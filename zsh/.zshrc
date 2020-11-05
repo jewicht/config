@@ -104,6 +104,8 @@ export EDITOR='emacs -nw'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+alias lh='ls -atlrh'
+
 DEFAULT_USER=jwicht
 prompt_context(){}
 
